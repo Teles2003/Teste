@@ -1,0 +1,27 @@
+﻿body {background-image:url("img/background-01.jpg")
+}
+
+p{  background-color:#000000;
+    color:#ffffff;
+    padding:20px;
+}
+.titulo{
+    font-size:50px;
+    color: #ffffff;
+}
+h3 {
+    color: #ffffff;
+}
+.texto{
+    color:#ffffff;
+}
+
+.tabela{
+    background-color:#000000;
+    color:#ffffff;
+}
+.btnpg{
+    padding:10px;
+    border-radius:5px;
+    background-image: url("img/background.jpg")
+}

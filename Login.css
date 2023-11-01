@@ -1,0 +1,30 @@
+﻿body {
+    background-image: url("img/background_tec.jpeg");
+    max-width:100%;
+}
+
+h1{
+    color:#ffffff;
+}
+tr{
+    color:#ffffff;
+}
+
+.btnlogin{
+    padding:10px;
+    border-radius:10px;
+    background-color:#00ffff;
+    
+}
+.h5{
+    display:block;
+}
+.p1{
+    display:block;
+}
+.p2 {
+    display: block;
+}
+.p3 {
+    display: block;
+}
